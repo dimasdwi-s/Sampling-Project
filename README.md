@@ -9,4 +9,4 @@ Berdasarkan perhitungan BPS, angka kemiskinan di DIY tercatat sebesar 11,49 %. P
 
 Dalam masalah pengentasan kemiskinan di DIY, sepertinya langkah utama yang harus segera dilakukan adalah dalam bidang pendataan. Sulit sekali mencari data kemiskinan yang mencatat hingga sampai level terbawah di masyarakat. Dari 5 wilayah administratif yang ada di DIY, hanya 3 wilayah yang menyediakan data jumlah keluarga miskin per Kelurahan. Yaitu Kota Yogyakarta, Kabupaten Sleman, dan Kabupaten Kulonprogo. 
 
-Report selengkapnya dapat dilihat pada
+Report selengkapnya dapat dilihat pada https://medium.com/@s.dimasdwi/menaksir-jumlah-keluarga-miskin-per-kelurahan-di-daerah-istimewa-yogyakarta-f6b220f03184
